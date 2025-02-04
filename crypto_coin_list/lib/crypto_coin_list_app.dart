@@ -10,8 +10,8 @@ class CryptoCurrenciesListApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Crypto Currencies List',
-      theme: theme,
-      routes: router,
+      theme: darkTheme,
+      routes: routes,
 
       // home: const CryptoListScreen(title: 'Crypto Currencies List'),
       //

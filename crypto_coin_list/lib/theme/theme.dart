@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-ThemeData theme = ThemeData(
+ThemeData darkTheme = ThemeData(
   scaffoldBackgroundColor: const Color.fromARGB(255, 31, 31, 31),
   appBarTheme: AppBarTheme(
     iconTheme: IconThemeData(color: Colors.white),
